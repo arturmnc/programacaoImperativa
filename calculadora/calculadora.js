@@ -71,3 +71,4 @@ function geradorDePorcentagem(numA,numB){
 };
 
 console.log(geradorDePorcentagem(4,400));
+
