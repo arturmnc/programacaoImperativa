@@ -1,4 +1,3 @@
-
 // O usuário poderá alterar o tempo padrão, aumentando ou diminuindo de acordo com sua vontade. Se o tempo informado for maior que 2x o necessário, exibir mensagem que a comida queimou.
 
 var pipoca = 10, brigadeiro = 8, macarrão = 8, carne = 15, feijão = 12

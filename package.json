@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "moment": "^2.29.4",
+    "odd-even": "^1.0.0"
+  },
+  "name": "programacaoimperativa",
+  "version": "1.0.0",
+  "description": "Aula 14 Digital House Node.js",
+  "main": "anotacoes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturmnc/programacaoImperativa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arturmnc/programacaoImperativa/issues"
+  },
+  "homepage": "https://github.com/arturmnc/programacaoImperativa#readme"
+}
