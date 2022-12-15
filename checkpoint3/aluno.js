@@ -39,6 +39,7 @@ function Aluno(nome, faltas, notas) {
 
 const artur = new Aluno('Artur', 0, [9, 8, 10]);
 const yago = new Aluno('Yago', 0, [1, 2, 3]);
+
 console.log(artur.calcularMedia());
 console.log(yago.calcularMedia());
 artur.addFaltas();
